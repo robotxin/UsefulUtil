@@ -32,6 +32,14 @@
 			<scope>test</scope>
 		</dependency>
 		
+		
+				<!-- SFTP -->
+				<dependency>
+			<groupId>com.jcraft</groupId>
+			<artifactId>jsch</artifactId>
+			<version>0.1.48</version>
+		</dependency>
+		
 				<dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-compress</artifactId>
